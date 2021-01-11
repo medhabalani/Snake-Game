@@ -1,5 +1,5 @@
 # Snake-Game
-# This game is made using pygame module in pyhton. </br>
+# This game is made using pygame module in python. </br>
 
 Snaps from the game -
 </br>
